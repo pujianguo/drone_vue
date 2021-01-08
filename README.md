@@ -1,4 +1,5 @@
 # drone_vue
+[![Build Status](https://cloud.drone.io/api/badges/pujianguo/drone_vue/status.svg)](https://cloud.drone.io/pujianguo/drone_vue)
 
 ## Project setup
 ```
